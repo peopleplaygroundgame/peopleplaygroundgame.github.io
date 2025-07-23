@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://https://peopleplaygroundgame.github.io/sitemap.xml
